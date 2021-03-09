@@ -1,4 +1,4 @@
-## Get some laugh today 🤣
+Get some laugh today 🤣
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
