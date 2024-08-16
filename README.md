@@ -14,3 +14,7 @@ Feeling tired? Need a ☕ 🥐 break? Get some laugh today
 
 
 🤣 Happy? Feeling better? OK, now get back to work 💪💻
+
+---
+
+![Contribution in Rust](https://cheuk.dev/contribution-board/output.svg)
